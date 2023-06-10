@@ -55,7 +55,7 @@ export default function Home({ exploreData, cardsData }) {
         {/* large card */}
         <LargeCard
           img="/largeCard_img.jpeg"
-          title="The Greatest Outoors"
+          title="The Greatest View"
           desc="Wishlist curated by Property Pro"
           buttonText="Get Inspiried"
         />
