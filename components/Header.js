@@ -31,7 +31,7 @@ const Header = () => {
           name="search"
           value={searchString}
           onChange={(e) => setSearchString(e.target.value)}
-          placeholder="Search your dream home..."
+          placeholder="Search..."
           className="pl-5 bg-transparent outline-none flex-grow text-grey-600 placeholder-gray-400"
         />
         <MagnifyingGlassIcon className="hidden md:inline-flex h-8 bg-red-400 text-white rounded-full p-2 cursor-pointer md:mx-2" />
