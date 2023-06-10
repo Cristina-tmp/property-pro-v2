@@ -7,6 +7,7 @@ const Banner = () => {
       <Image
         src="https://i.redd.it/19p8jtrvbe061.jpg"
         fill
+        alt="banner_image"
         className="object-cover"
       />
 
